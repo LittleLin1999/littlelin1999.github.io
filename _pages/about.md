@@ -79,7 +79,7 @@ All papers on [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/Itpcx
 6. **Lin, X.**, Cai, Z., Wu, Y., et al. 2024, _Quantifying the escape of Lyα at z=5-6: a census of Lyα escape fraction with Hα emitting galaxies spectroscopically confirmed by JWST and VLT/MUSE_, [ApJS, 272, 33](https://ui.adsabs.harvard.edu/abs/2024ApJS..272...33L/abstract)
 7. **Lin, X.**, Cai, Z., Zou, S., et al. 2023, _Metal-Enriched Neutral Gas Reservoir around a Strongly-lensed, Low-mass Galaxy at z=4 Identified by JWST/NIRISS and VLT/MUSE_, [ApJL, 944, 59](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..59L/abstract)
 8. **Lin, X.**, Zheng, Z. & Cai, Z. 2022, _Probing the Diffuse Lyα Emission on Cosmological Scales: Lyα Emission Intensity Mapping Using the Complete SDSS-IV eBOSS_, [ApJS, 262, 38](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...38L/abstract)
-9. **Lin, X.**, Cai, Z., Li, Y., et al. 2020, _Constraining the Halo Mass of Damped Lyman alpha Absorption Systems (DLAs) at z = 2-3.5 Using the Quasar–CMB Lensing Cross-correlation_, [ApJ, 905, 176](https://ui.adsabs.harvard.edu/abs/2025arXiv250315597F/abstract)
+9. **Lin, X.**, Cai, Z., Li, Y., et al. 2020, _Constraining the Halo Mass of Damped Lyman alpha Absorption Systems (DLAs) at z = 2-3.5 Using the Quasar–CMB Lensing Cross-correlation_, [ApJ, 905, 176](https://ui.adsabs.harvard.edu/abs/2020ApJ...905..176L/abstract)
 
  
 <span class='anchor' id='datacodes'></span>
