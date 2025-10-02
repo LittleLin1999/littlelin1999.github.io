@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Astrophysics Ph.D. student. Black holes, AGNs, Galaxy evolution"
+excerpt: "Astrophysics Ph.D. student. Black holes, AGNs, Galaxy evolution, Reionization"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,37 +26,34 @@ I am actively involved in several collaborations, including [SAPPHIRES](https://
 
 # 📖 Educations
 - 2023.10 – 2025.06, Visiting student, Steward Observatory, Tucson, Arizona.
-  - Advisor: Prof. Xiaohui Fan \& Dr. Eiichi Egami
+  - Advisor: Prof. Xiaohui Fan & Dr. Eiichi Egami
 - 2021.09 – Present, Ph.D. student in Astronomy, Tsinghua University, Beijing, China.
   - Advisor: Prof. Zheng Cai
 - 2017.09 – 2021.06, B.S. in Astronomy, Peking University, Beijing, China.
   - Thesis: Probing Diffuse Lyman Alpha Emission on Cosmological Scales
-  - Advisor: Prof. Zheng Cai (Tsinghua University) \& Prof. Zheng Zheng (University of Utah)
+  - Advisor: Prof. Zheng Cai (Tsinghua University) & Prof. Zheng Zheng (University of Utah)
 
-<!-- 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 
 # 📝 Research 
 
-### Little Red Dots from the high-redshift to the Local Universe
+## Little Red Dots from the high-redshift to the Local Universe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/LRD_cartoon.png' alt="LRD model" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The enigmatic ``Little Red Dots''](https://ui.adsabs.harvard.edu/abs/2025arXiv250710659L/abstract)
-
+**The enigmatic ``Little Red Dots''**
+Gen
 </div>
 </div>
 
 
-### Young galaxies in the Early Universe
+## Young galaxies in the Early Universe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/A2744-arc3-3.png' alt="A2744-arc3" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A strongly lensed galaxy A2744-arc3](pdf/Poster_A2744-arc3_Lin2023.pdf)
 
-Xiaojing Lin
+
+
 
 {% comment %}
 [**Citations**](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID) <strong><span class='show_paper_citations' data='REPLACE_WITH_PAPER_ID'></span></strong>
@@ -67,15 +64,9 @@ Xiaojing Lin
 
  
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+
