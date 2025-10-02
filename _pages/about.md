@@ -25,7 +25,6 @@ I am currently a fifth-year graduate student in the Department of Astronomy at T
 I am actively involved in several collaborations, including [SAPPHIRES](https://jwst-sapphires.github.io/), [MAGNIF](https://ui.adsabs.harvard.edu/abs/2023jwst.prop.2883S/abstract), [CONGRESS](https://ui.adsabs.harvard.edu/abs/2023jwst.prop.3577E/abstract), [JADES](https://jades-survey.github.io/), [ASPIRE](https://aspire-quasar.github.io/), [COSMOS-3D](https://jwst-cosmos3d.github.io/), etc.
 
 
-<div style="height: 64px;"></div>
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - 2023.10 – 2025.06, Visiting student, Steward Observatory, Tucson, Arizona.
