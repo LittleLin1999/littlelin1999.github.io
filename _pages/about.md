@@ -25,6 +25,7 @@ I am currently a fifth-year graduate student in the Department of Astronomy at T
 I am actively involved in several collaborations, including [SAPPHIRES](https://jwst-sapphires.github.io/), [MAGNIF](https://ui.adsabs.harvard.edu/abs/2023jwst.prop.2883S/abstract), [CONGRESS](https://ui.adsabs.harvard.edu/abs/2023jwst.prop.3577E/abstract), [JADES](https://jades-survey.github.io/), [ASPIRE](https://aspire-quasar.github.io/), [COSMOS-3D](https://jwst-cosmos3d.github.io/), etc.
 
 
+<div style="height: 64px;"></div>
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - 2023.10 – 2025.06, Visiting student, Steward Observatory, Tucson, Arizona.
@@ -47,7 +48,7 @@ I am actively involved in several collaborations, including [SAPPHIRES](https://
 
 
 
-The discovery of low-redshift LRDs provides a new window into their nature. We have identified three LRDs at $z \approx$0.1-0.2 ([Lin+25d](https://arxiv.org/abs/2507.10659)), and follow-up spectroscopy reveals exceptionally rich spectral details that are inaccessible in most high-redshift counterparts. Their striking characteristics, including extremely high-EW, cool-star–like absorption, cannot be explained by standard AGN models or stellar populations. These features reveal a cool gaseous envelope around the black holes, reminiscent of an atmosphere, inspiring a new paradigm for LRDs. (left).
+The discovery of low-redshift LRDs provides a new window into their nature. We have identified three LRDs at $z \approx$0.1-0.2 ([Lin+25d](https://arxiv.org/abs/2507.10659)), and follow-up spectroscopy reveals exceptionally rich spectral details that are inaccessible in most high-redshift counterparts. Their striking characteristics, including extremely high-EW, cool-star–like absorption, cannot be explained by standard AGN models or stellar populations. These features reveal a cool gaseous envelope around the black holes, reminiscent of an atmosphere, inspiring a new paradigm for LRDs (left).
 
 </div>
 </div>
@@ -59,7 +60,7 @@ The discovery of low-redshift LRDs provides a new window into their nature. We h
 
 The launch of JWST has opened an extraordinary new window into the early Universe, transforming our understanding of how the young galaxies in the early Universe formed and evolved. Its wide-field slitless spectroscopy (WFSS) offers an unprecedented opportunity to conduct unbiased surveys of line-emitting galaxies with exceptional sensitivity and efficiency. These vast samples allow us to explore the statistical properties of star formation, trace cosmic evolution across time, and map the large-scale environments of early galaxies ([Lin+25b](https://ui.adsabs.harvard.edu/abs/2025arXiv250408028L/abstract)).
 
-By combining JWST with powerful ground-based facilities such as VLT/MUSE, we can probe multiple facets of high-redshift galaxies. This includes detailed studies of optical emission lines (e.g., [O III], Hα) and UV properties (e.g.,Lyα), revealing the interplay between galaxies and the surrounding interstellar medium ([Lin+23](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..59L/abstract), [Lin+24a](https://ui.adsabs.harvard.edu/abs/2024arXiv240109532L/abstract)). Together, these observations offer an unprecedented glimpse into the physical conditions, growth, and environments of galaxies in the early epochs of cosmic history, providing exciting new insights into the dawn of galaxy formation.
+By combining JWST with powerful ground-based facilities such as VLT/MUSE, we can probe multiple facets of high-redshift galaxies. This includes detailed studies of optical emission lines (e.g., [O III], Hα) and UV properties (e.g.,Lyα), providing insights into the stellar populations and the interstellar medium ([Lin+23](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..59L/abstract), [Lin+24a](https://ui.adsabs.harvard.edu/abs/2024arXiv240109532L/abstract)). Together, these observations offer an unprecedented glimpse into the physical conditions, growth, and environments of galaxies in the early epochs of cosmic history, providing exciting new insights into the dawn of galaxy formation.
 
 
 </div>
