@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+{% comment %}
+Google Scholar badge and stats logic (disabled for now)
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% endcomment %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -33,7 +36,9 @@ I am a Ph.D. student in astrophysics. My research focuses on galaxy evolution, L
 
 Xiaojing Lin
 
+{% comment %}
 [**Citations**](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID) <strong><span class='show_paper_citations' data='REPLACE_WITH_PAPER_ID'></span></strong>
+{% endcomment %}
 - Poster presented on gravitationally lensed galaxy arc in Abell 2744.
 </div>
 </div>
