@@ -10,5 +10,8 @@ main:
   - title: "Researches"
     url: "/#researches"
 
+  - title: "Publications"
+    url: "/#publications"
+
   - title: "Data/Codes"
     url: "/#datacodes"

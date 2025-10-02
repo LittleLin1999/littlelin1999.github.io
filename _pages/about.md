@@ -52,7 +52,6 @@ The discovery of low-redshift LRDs provides a new window into their nature. We h
 </div>
 </div>
 
-
 ## Young galaxies in the Early Universe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/A2744-arc3-3.png' alt="A2744-arc3" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +64,24 @@ By combining JWST with powerful ground-based facilities such as VLT/MUSE, we can
 </div>
 </div>
 
+<span class='anchor' id='publications'></span>
+# 📄 Publications
+
+All papers on [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/ItpcxqxtSBO0fo0Wy7w1NA).
+
+**First Author**
+
+1. **Lin, X.**, Fan, X., Cai, Z., et al. 2025, _The Discovery of Little Red Dots in the Local Universe: Signatures of Cool Gas Envelopes_, [submitted](https://arxiv.org/abs/2507.10659)
+2. **Lin, X.**, Fan, X., Wang, F., et al. 2025, _Bridging Quasars and Little Red Dots: Insights into Broad-Line AGNs at z=5-8 from the First JWST COSMOS-3D Dataset_, [submitted](https://ui.adsabs.harvard.edu/abs/2025arXiv250408039L/abstract)
+3. **Lin, X.**, Fan, X., Sun, F., et al. 2025, _The Large-scale Environments of Low-luminosity AGNs at 3.9 < z < 6 and Implications for Their Host Dark Matter Halos from a Complete NIRCam Grism Redshift Survey_, [submitted](https://ui.adsabs.harvard.edu/abs/2025arXiv250502896L/abstract)
+4. **Lin, X.**, Egami, E., Sun, F., et al. 2025, _The Luminosity Function and Clustering of Hα Emitting Galaxies at z≈4-6 from a Complete NIRCam Grism Redshift Survey_, [submitted](https://ui.adsabs.harvard.edu/abs/2025arXiv250408028L/abstract)
+5. **Lin, X.**, Wang, F., Fan, X., et al. 2024, _A Spectroscopic survey of biased halos In the Reionization Era (ASPIRE): Broad-line AGN at z=4-5 revealed by JWST/NIRCam WFSS_, [ApJS, 914, 147](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..147L/abstract)
+6. **Lin, X.**, Cai, Z., Wu, Y., et al. 2024, _Quantifying the escape of Lyα at z=5-6: a census of Lyα escape fraction with Hα emitting galaxies spectroscopically confirmed by JWST and VLT/MUSE_, [ApJS, 272, 33](https://ui.adsabs.harvard.edu/abs/2024ApJS..272...33L/abstract)
+7. **Lin, X.**, Cai, Z., Zou, S., et al. 2023, _Metal-Enriched Neutral Gas Reservoir around a Strongly-lensed, Low-mass Galaxy at z=4 Identified by JWST/NIRISS and VLT/MUSE_, [ApJL, 944, 59](https://ui.adsabs.harvard.edu/abs/2023ApJ...944L..59L/abstract)
+8. **Lin, X.**, Zheng, Z. & Cai, Z. 2022, _Probing the Diffuse Lyα Emission on Cosmological Scales: Lyα Emission Intensity Mapping Using the Complete SDSS-IV eBOSS_, [ApJS, 262, 38](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...38L/abstract)
+9. **Lin, X.**, Cai, Z., Li, Y., et al. 2020, _Constraining the Halo Mass of Damped Lyman alpha Absorption Systems (DLAs) at z = 2-3.5 Using the Quasar–CMB Lensing Cross-correlation_, [ApJ, 905, 176](https://ui.adsabs.harvard.edu/abs/2025arXiv250315597F/abstract)
+
+ 
 <span class='anchor' id='datacodes'></span>
 # 💻 Data and Codes
 
