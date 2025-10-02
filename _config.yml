@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaojing Lin"
-description              : "Astrophysics Ph.D. student. Galaxy evolution, Lyα emission, intensity mapping."
+description              : "Astrophysics Ph.D. student. BHs, AGNs, galaxy evolution, reionization"
 repository               : "littlelin/littlelin1999.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,11 +24,11 @@ author:
   name             : "Xiaojing Lin"
   avatar           : "images/me.jpg"
   bio              : "Department of Astronomy"
-  location         : ""
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : ""
+  email            : "xiaojinglin.astro@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : littlelin
+  github           : littlelin1999
   google_plus      :
   keybase          :
   instagram        :
