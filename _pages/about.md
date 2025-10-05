@@ -20,7 +20,7 @@ Google Scholar badge and stats logic (disabled for now)
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fifth-year Ph.D. student in the Department of Astronomy at Tsinghua University, where I studyextragalactic astronomy under the supervision of Prof. Zheng Cai. From 2023 to 2025, I was a visiting student at Steward Observatory in Tucson, Arizona, working with Prof. Xiaohui Fan and Dr. Eiichi Egami. Before starting my graduate research, I took my first step into astronomy as an undergraduate in the PKU Pulsar Group at Peking University, studying pulsar physics with Prof. Renxin Xu and Prof. Kejia Li.
+I am currently a fifth-year Ph.D. student in the Department of Astronomy at Tsinghua University, where I study extragalactic astrophysics under the supervision of Prof. Zheng Cai. From 2023 to 2025, I was a visiting student at Steward Observatory in Tucson, Arizona, working with Prof. Xiaohui Fan and Dr. Eiichi Egami. Before beginning my graduate research, I took my first step into astronomy as an undergraduate in the PKU Pulsar Group at Peking University, studying pulsar physics with Prof. Renxin Xu and Prof. Kejia Li.
 
 My research broadly spans the Universe, from galaxy evolution to black hole growth. I focus particularly on young black holes and galaxies, including: (1) The early growth and accretion of AGNs and black holes, including the enigmatic population recently discovered by JWST, nicknamed ''Little Red Dots''. (2) The evolution of young galaxies and their intrinsic and environmental properties, across both cosmological and small-scale perspectives. I study the Universe using multi-band data from a range of ground- and space-based telescopes, including SDSS, DESI, VLT, HST, and JWST. 
 
